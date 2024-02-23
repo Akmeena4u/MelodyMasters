@@ -26,3 +26,8 @@ Here i am making a music learning website by using basic nextJs(a fullstack fram
       2. here main use of aceternity will be in  background-gradient 
       3. we are using typescript to make things good for security purpose so for that i decided to make whole card a custome datatype 
       4. so for that i use interface keyword and use this keyword along courses 
+
+ ## 5. Sticky scroll revel
+      1. here we will take this compo from aceternity ui library
+      2. it willl be in ui whychooseus section
+      3. 
